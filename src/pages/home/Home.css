@@ -1,0 +1,10 @@
+.home-loading {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    overflow: hidden;
+    align-items: center;
+    height: 100vh;
+    
+    
+}
